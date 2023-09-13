@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospitalweb
 Hospital Management System using MySQL, Php and Bootstrap
 ## Need to work on:
 
